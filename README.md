@@ -8,7 +8,7 @@ this amazing stuff.
 
 
 Download procompiled binaries here
-/releases
+https://github.com/LinuxBeaver/Glowing_Edge_Detect_Gimp_Plugin/releases
 
 ## Location to put binaries
 
