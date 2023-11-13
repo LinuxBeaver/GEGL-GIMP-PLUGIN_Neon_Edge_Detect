@@ -4,6 +4,9 @@ Edge Detect Neon Glow Gimp plugin inspired by a Glow filter I saw in Adobe Photo
 From a technical perspective this is the default edge detect filter heavily modified with many GEGL nodes after it or it (the edge detect) inside a GEGL composer to do
 this amazing stuff.
 
+![image](https://github.com/LinuxBeaver/Glowing_Edge_Detect_Gimp_Plugin/assets/78667207/9384c63b-e554-4ab1-bb5d-de2438bf22d0)
+
+
 Download procompiled binaries here
 /releases
 
