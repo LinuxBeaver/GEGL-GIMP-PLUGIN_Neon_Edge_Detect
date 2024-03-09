@@ -204,7 +204,7 @@ switch (o->mode) {
     case GLOW:
   gegl_node_link_many (state->input, state->luminance, state->mcb, state->bloom2, state->output, NULL);
   gegl_node_link_many (state->edge, state->glowgraph, state->bloom,  NULL);
-    gegl_node_connect_from (state->luminance, "aux", state->bloom, "output");
+    gegl_node_connect (state->luminance, "aux", state->bloom, "output");
         break;
     }
   }
